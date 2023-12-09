@@ -4,3 +4,4 @@
 
 This file was modifed locally.
 This time changes were made of feature-2 branch.
+Another modification was made in branch feature-2
